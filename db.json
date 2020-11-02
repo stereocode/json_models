@@ -1,0 +1,17 @@
+{
+  "profile": {
+    "userId": "ef6fabb3-acf5-40f1-ae03-10d0ca5e70db",
+    "authentication": {
+      "accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c",
+      "accessTokenExpirationDate" : "2020-11-02T18:34:30+00:00"
+    },
+    "profile": {
+      "hasImage": true,
+      "email": "john.doe@mail.net",
+      "name": "John Doe",
+      "lastName": "Doe",
+      "firsName": "John",
+      "imageURL":"https://w7.pngwing.com/pngs/953/222/png-transparent-computer-icons-avatar-business-user-profile-avatar-heroes-logo-monochrome.png"
+    }
+  }
+}
